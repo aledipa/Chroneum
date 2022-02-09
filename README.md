@@ -6,6 +6,7 @@ A nice Flutter Neumorphic timer and chronometer.
 ## More Details
 
 The application is developed following the Neumorphic Design guidelines. (Further details are present in the code's comments)
+(NOTE: This was meant as a school project, it's main purpose is NOT to be a good timer, but to express the UI/UX interface and the use of Dart Streams as well.)
 
 How to:
 - Set the timer: click on the + and - buttons to increment/decrement the values of hours, minutes and seconds
