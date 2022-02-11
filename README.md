@@ -5,8 +5,7 @@ A nice Flutter Neumorphic timer and chronometer.
 ## Graphical Elements 
 Small preview of some graphical elements
 <br>
-
-<img src="icons/Logo.png" alt="L" width="45%"/>
+<img src="icons/Logo.png" alt="L" width="35%"/>
 <img src="icons/Dock.png" alt=DT" width="45%"/>
 <br>
 <img src="icons/Chrono.git" alt="C" width="45%"/>
