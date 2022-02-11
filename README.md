@@ -8,8 +8,8 @@ Small preview of some graphical elements
 <img src="icons/Logo.png" alt="L" width="35%"/>
 <img src="icons/Dock.png" alt="T" width="45%"/>
 <br>
-<img src="icons/Chrono.git" alt="C" width="45%"/>
-<img src="icons/Timer.git" alt="T" width="45%"/>
+<img src="icons/Chrono.gif" alt="C" width="45%"/>
+<img src="icons/Timer.gif" alt="T" width="45%"/>
 
 
 ## More Details
